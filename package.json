@@ -4,9 +4,9 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-"repository": {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/tajawal/www-job"
+    "url": "https://github.com/Hekmat-Alshakhshir/kue"
   },
   "description": "Feature rich priority job queue backed by redis",
   "homepage": "http://automattic.github.io/kue/",
@@ -24,10 +24,6 @@
       "email": "behradz@gmail.com"
     }
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Automattic/kue.git"
-  },
   "bugs": {
     "url": "https://github.com/Automattic/kue/issues"
   },
