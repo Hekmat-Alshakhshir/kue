@@ -1,6 +1,13 @@
 {
-  "name": "kue",
-  "version": "0.11.5",
+  "name": "@tajawal/kue",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/tajawal/www-job"
+  },
   "description": "Feature rich priority job queue backed by redis",
   "homepage": "http://automattic.github.io/kue/",
   "keywords": [
